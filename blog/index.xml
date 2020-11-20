@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on 舒Blog</title>
+    <link>https://shusir-dr.github.io/blog/</link>
+    <description>Recent content in blog on 舒Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="https://shusir-dr.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How To Use Hugo and Github</title>
+      <link>https://shusir-dr.github.io/blog/test/</link>
+      <pubDate>Thu, 19 Nov 2020 10:07:47 +0800</pubDate>
+      
+      <guid>https://shusir-dr.github.io/blog/test/</guid>
+      <description>Hello World
+我是shusir
+原來如此 哇哇 文字 哇我好斜  我好累 我好想睡 我快睡著了   我怎麼了  你才怎麼了  不要一直問       未來希望有能引用自己的文字</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://shusir-dr.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://shusir-dr.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
